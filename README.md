@@ -1,24 +1,10 @@
 # awgen
 
 ## scripts
+выполнять по порядку
+[check_system.sh](check_system.sh) - первичная проверка системы
+[net_settings.sh](net_settings.sh) - сетевые настройки сервера
+[install_amnezia.sh](install_amnezia.sh) - установка amnezia
+[awgen_utilit.sh](awgen_utilit.sh) - установка утилиты для управления 
 
-prepare system
-проверка и подготовка системы для работы с amnezia
 
-net settings
-выставление настроек для пушка бомба оптимизации трафика
-
-install amnezia
-установка amnezia
-
-create awg config
-создание и настрока конфигурации сервера amnezia
-
-start awg
-старт сервиса с конфигурацией
-
-awgen utilit
-самостоятельный скрипт утилиты awgen
-
-install awgen
-установка утилиты
